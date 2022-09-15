@@ -15,7 +15,7 @@
 
 [![codewars](https://www.codewars.com/users/Sergey.Babyshev/badges/large)](https://www.codewars.com/users/Sergey.Babyshev)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:https://t.me/SergeyBabyshev</h3>
 <p align="left">
 </p>
 
