@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sergey Babyshev :computer:</h1>
+<h1 align="center">Hi 👋, I'm Sergey Babyshev :metal:</h1>
 <h3 align="center">A Full Stack developer from Moscow</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=6ase&label=Profile%20views&color=0e75b6&style=flat" alt="6ase" /> </p>
