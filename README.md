@@ -1,12 +1,8 @@
-
-
 [![MasterHead](https://user-images.githubusercontent.com/92950804/190868119-c8f1ea72-9483-47c2-a38b-c0b552256741.gif)](https://user-images.githubusercontent.com/92950804/190868119-c8f1ea72-9483-47c2-a38b-c0b552256741.gif)
 <h1 align="center">Hi 👋, I'm I'm Sergey Babyshev 🤘</h1>
 <h3 align="center">A Full Stack developer from Moscow</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=6ase&label=Profile%20views&color=0e75b6&style=flat" alt="6ase" /> </p>
-
-- 🌱 I’m currently learning **React and Redux**
 
 - 👨‍💻 I like to improve my coding skills at Codewars [![codewars](https://www.codewars.com/users/Sergey.Babyshev/badges/small)](https://www.codewars.com/users/Sergey.Babyshev)
 
