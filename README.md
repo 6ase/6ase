@@ -28,7 +28,7 @@
 <p align="left"><a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
 <a href="https://sequelize.org/" target="_blank" rel="noreferrer"> <img src="https://sequelize.org/img/logo.svg" alt="sequelize"40" height="40"/> </a></p>
-
+<img src="https://user-images.githubusercontent.com/92950804/190867064-b4482ecb-77c6-4bf1-9952-c1b5c4d81bb2.gif" width="300" height="250"/>
  
 <h3 align="left">Additional:</h3> 
 <p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a>
@@ -45,7 +45,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=6ase&show_icons=true&locale=en&layout=compact" alt="6ase" /></p>
  
 
-<img src="https://user-images.githubusercontent.com/92950804/190867064-b4482ecb-77c6-4bf1-9952-c1b5c4d81bb2.gif" width="300" height="300"/>
+
 
 
 
