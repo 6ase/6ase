@@ -1,7 +1,7 @@
 
 
 <img src="https://i.gifer.com/7StV.gif" alt="javascript"/>
-<h1 align="center">Hi 👋, I'm I'm Sergey Babyshev 🤘</h1>
+<h1 align="center">Hi 👋, I'm Sergey Babyshev 🤘</h1>
 <h3 align="center">A Full Stack developer from Moscow</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=6ase&label=Profile%20views&color=0e75b6&style=flat" alt="6ase" /> </p>
