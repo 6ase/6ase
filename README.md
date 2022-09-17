@@ -36,4 +36,4 @@
 <li><b>GameDev:</b> C#, .net, Unity </li>
 <li><b>Quality assurance:</b> Java, Selenium Web Driver, JEST </li>
 </ul>
-![programmers-go-internet](https://user-images.githubusercontent.com/92950804/190870547-40f1d586-3434-4155-a35d-102c5996a91b.gif)
+
