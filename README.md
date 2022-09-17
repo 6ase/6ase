@@ -1,4 +1,4 @@
-<p align="center">![JavaScript](https://user-images.githubusercontent.com/92950804/190869050-4ec64601-4535-453f-99ae-73271da384b0.gif)</p>
+
 
 <img src="https://i.gifer.com/7StV.gif" alt="javascript"/>
 <h1 align="center">Hi 👋, I'm I'm Sergey Babyshev 🤘</h1>
