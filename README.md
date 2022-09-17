@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=6ase&label=Profile%20views&color=0e75b6&style=flat" alt="6ase" /> </p>
 
-- 👨‍💻 I like to improve my coding skills at Codewars [![codewars](https://www.codewars.com/users/Sergey.Babyshev/badges/small)](https://www.codewars.com/users/Sergey.Babyshev)
+- 👨‍💻 I like to improve my coding skills at Codewars   ()   =>  { [![codewars](https://www.codewars.com/users/Sergey.Babyshev/badges/small)](https://www.codewars.com/users/Sergey.Babyshev)  }
 
 - 💬 You can ask **me anything, and I have to answer truthfully.**
 
