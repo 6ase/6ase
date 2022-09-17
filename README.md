@@ -45,7 +45,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=6ase&show_icons=true&locale=en&layout=compact" alt="6ase" /></p>
  
 
+<img src="https://user-images.githubusercontent.com/92950804/190867064-b4482ecb-77c6-4bf1-9952-c1b5c4d81bb2.gif" width="100" height="100"/>
 
-![Css](https://user-images.githubusercontent.com/92950804/190867064-b4482ecb-77c6-4bf1-9952-c1b5c4d81bb2.gif)
 
 
