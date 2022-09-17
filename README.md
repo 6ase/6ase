@@ -1,4 +1,6 @@
-[![MasterHead](https://user-images.githubusercontent.com/92950804/190868119-c8f1ea72-9483-47c2-a38b-c0b552256741.gif)](https://user-images.githubusercontent.com/92950804/190868119-c8f1ea72-9483-47c2-a38b-c0b552256741.gif)
+<p align="center">![JavaScript](https://user-images.githubusercontent.com/92950804/190869050-4ec64601-4535-453f-99ae-73271da384b0.gif)</p>
+
+<img src="https://i.gifer.com/7StV.gif" alt="javascript"/>
 <h1 align="center">Hi 👋, I'm I'm Sergey Babyshev 🤘</h1>
 <h3 align="center">A Full Stack developer from Moscow</h3>
 
@@ -12,7 +14,7 @@
 
 - ⚡ Fun fact **I start to play guitar at 25 years old.**
 
-
+<p><h3 align="left">Main:</h3>
 <h3 align="left">Main:</h3>
 <p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a></p>
