@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **Serghome06@mail.ru**
 
-- ⚡ Fun fact **I start to play guitar at 25 years old.**
+- ⚡ Fun fact **I started to play guitar at 23 years old and learn JavaScript at 32 years old**
 
 <p><img align="right" vspace="10" hspace="10" src="https://github-readme-stats.vercel.app/api/top-langs?username=6ase&show_icons=true&locale=en&layout=compact" alt="6ase" /></p>
 <h3 align="left" >My stack:</h3>
@@ -22,10 +22,10 @@
  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a><a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a><a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
 <a href="https://sequelize.org/" target="_blank" rel="noreferrer"> <img src="https://sequelize.org/img/logo.svg" alt="sequelize"40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a><a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> </p>
 <ul>
-<li><b>FrontEnd:</b> JS, TypeScript, React, Hooks API, Redux (Saga, Thunk, Toolkit), HTML5, CSS3, Sass</li>
-<li><b>BackEnd:</b>  Node.js, Express, Sessions/Tokens, CORS, WebSockets, hbs</li>
+<li><b>FrontEnd:</b> JS, React, Hooks API, Redux (Saga, Thunk, Toolkit), HTML5, CSS3, BootStrap</li>
+<li><b>BackEnd:</b>  Node.js, Express, Sessions/Tokens </li>
 <li><b>DataBase:</b>  PostgreSQL, Sequelize ORM</li>
-<li><b>Other:</b> Jest, Docker, RES, Webpack, Babel,Git</li>
+<li><b>Other:</b> Jest, Webpack, Babel,Git</li>
 </ul>
 <h3 align="left" >Have a little practice with:</h3>
 <p align="left">
