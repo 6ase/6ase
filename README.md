@@ -1,6 +1,4 @@
 
-
-<img src="https://i.gifer.com/7StV.gif" alt="javascript"/>
 <h1 align="center">Hi 👋, I'm Sergey Babyshev 🤘</h1>
 <h3 align="center">A Full Stack developer from Moscow</h3>
 
